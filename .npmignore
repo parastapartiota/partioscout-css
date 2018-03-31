@@ -1,0 +1,6 @@
+example/
+.cache
+
+.prettierignore
+.prettierrc.json
+.stylelintrc.json

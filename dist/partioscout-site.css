@@ -1,0 +1,25 @@
+:root {
+  --partioscout-white: #fff;
+  --partioscout-black: #000;
+  --partioscout-blue: #253764;
+  --partioscout-orange: #efa01e;
+  --partioscout-yellow: #f0e005;
+  --partioscout-green: #14a54b;
+  --partioscout-light-blue: #28a9e1;
+  --partioscout-red: #f04150;
+}
+*,
+html {
+  font-family: PT Sans, sans-serif;
+  font-weight: 400;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Source Sans Pro Black, Source Sans Pro Heavy, Source Sans Pro,
+    sans-serif;
+  font-weight: 900;
+}
